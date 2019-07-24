@@ -1,1 +1,1 @@
-.scala linguist-vendored=false
+*.rb linguist-language=Scala
